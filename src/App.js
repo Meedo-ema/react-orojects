@@ -1,5 +1,6 @@
 import './App.css';
-import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
+import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
+// import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
 // import NotesApp from './projects/16-notes-app/NotesApp';
 // import RegForm from './projects/15-reg_form-validation/RegForm';
 // import FilterContactsApp from './projects/14-filter-contacts-app/FilterContactsApp';
@@ -37,7 +38,8 @@ function App() {
       {/* <FilterContactsApp /> */}
       {/* <RegForm /> */}
       {/* <NotesApp /> */}
-      <ResponsiveNav />
+      {/* <ResponsiveNav /> */}
+    <TextAnimationApp />
     </div>
   );
 }
