@@ -1,5 +1,6 @@
 import './App.css';
-import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
+import CompoundIntersetApp from './projects/19-compound-interest-rate-calc/CompoundIntersetApp';
+// import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
 // import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
 // import NotesApp from './projects/16-notes-app/NotesApp';
 // import RegForm from './projects/15-reg_form-validation/RegForm';
@@ -39,7 +40,8 @@ function App() {
       {/* <RegForm /> */}
       {/* <NotesApp /> */}
       {/* <ResponsiveNav /> */}
-    <TextAnimationApp />
+    {/* <TextAnimationApp /> */}
+<CompoundIntersetApp />
     </div>
   );
 }
