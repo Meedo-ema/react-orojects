@@ -37,7 +37,7 @@ export default function TasksTrackerApp() {
 
   return (
     <>
-      <Title text={'Task Tracker'} />
+      <Title text={'Task Tracker'} classes={'title text-center'} />
       <TableStyle>
         <ul className="table-head">
           <li>Date</li>

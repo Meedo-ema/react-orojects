@@ -1,5 +1,6 @@
 import './App.css';
-import TasksTrackerApp from './projects/21-tasks-tracker/TasksTrackerApp';
+import AnimatedLoginForm from './projects/23-animated-login-form/AnimatedLoginForm';
+// import TasksTrackerApp from './projects/21-tasks-tracker/TasksTrackerApp';
 // import SpacePinguinApp from './projects/20-space-pinguin/SpacePinguinApp';
 // import CompoundIntersetApp from './projects/19-compound-interest-rate-calc/CompoundIntersetApp';
 // import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
@@ -45,7 +46,8 @@ function App() {
       {/* <TextAnimationApp /> */}
       {/* <CompoundIntersetApp /> */}
       {/* <SpacePinguinApp /> */}
-      <TasksTrackerApp />
+      {/* <TasksTrackerApp /> */}
+      <AnimatedLoginForm />
     </div>
   );
 }
