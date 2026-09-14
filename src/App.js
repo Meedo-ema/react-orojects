@@ -1,5 +1,7 @@
 import './App.css';
-import CompoundIntersetApp from './projects/19-compound-interest-rate-calc/CompoundIntersetApp';
+import TasksTrackerApp from './projects/21-tasks-tracker/TasksTrackerApp';
+// import SpacePinguinApp from './projects/20-space-pinguin/SpacePinguinApp';
+// import CompoundIntersetApp from './projects/19-compound-interest-rate-calc/CompoundIntersetApp';
 // import TextAnimationApp from './projects/18-text-animation/TextAnimationApp';
 // import ResponsiveNav from './projects/17-responsive-nav/ResponsiveNav';
 // import NotesApp from './projects/16-notes-app/NotesApp';
@@ -40,8 +42,10 @@ function App() {
       {/* <RegForm /> */}
       {/* <NotesApp /> */}
       {/* <ResponsiveNav /> */}
-    {/* <TextAnimationApp /> */}
-<CompoundIntersetApp />
+      {/* <TextAnimationApp /> */}
+      {/* <CompoundIntersetApp /> */}
+      {/* <SpacePinguinApp /> */}
+      <TasksTrackerApp />
     </div>
   );
 }
