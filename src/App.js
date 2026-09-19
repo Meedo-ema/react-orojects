@@ -1,5 +1,6 @@
 import './App.css';
-import MortgageCalcApp from './projects/26-mortgage-calculator/MortgageCalcApp';
+import Store from './projects/27-course-store/Store';
+// import MortgageCalcApp from './projects/26-mortgage-calculator/MortgageCalcApp';
 // import PhoneBookApp from './projects/24-phone-book/PhoneBookApp';
 // import AnimatedLoginForm from './projects/23-animated-login-form/AnimatedLoginForm';
 // import TasksTrackerApp from './projects/21-tasks-tracker/TasksTrackerApp';
@@ -51,7 +52,8 @@ function App() {
       {/* <TasksTrackerApp /> */}
       {/* <AnimatedLoginForm /> */}
       {/* <PhoneBookApp /> */}
-      <MortgageCalcApp />
+      {/* <MortgageCalcApp /> */}
+      <Store />
     </div>
   );
 }
