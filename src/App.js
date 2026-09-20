@@ -1,5 +1,6 @@
 import './App.css';
-import Store from './projects/27-course-store/Store';
+import AuthApp from './projects/28-auth-app/AuthApp';
+// import Store from './projects/27-course-store/Store';
 // import MortgageCalcApp from './projects/26-mortgage-calculator/MortgageCalcApp';
 // import PhoneBookApp from './projects/24-phone-book/PhoneBookApp';
 // import AnimatedLoginForm from './projects/23-animated-login-form/AnimatedLoginForm';
@@ -53,7 +54,8 @@ function App() {
       {/* <AnimatedLoginForm /> */}
       {/* <PhoneBookApp /> */}
       {/* <MortgageCalcApp /> */}
-      <Store />
+      {/* <Store /> */}
+      <AuthApp />
     </div>
   );
 }
